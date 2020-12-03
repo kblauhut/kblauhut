@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/kblauhut/kblauhut/main/github-metrics.svg
+![GitHub metrics](https://raw.githubusercontent.com/kblauhut/kblauhut/main/github-metrics.svg)
